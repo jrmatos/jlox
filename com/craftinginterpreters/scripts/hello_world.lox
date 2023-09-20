@@ -1,0 +1,10 @@
+print "Hello world";
+// print 2 + 3;
+// print 2 == true;
+// print nil == nil;
+// print "statements working!";
+var a = 1;
+var b = 2;
+var c = 10 + 2;
+print a + b + c;
+print c;
