@@ -1,0 +1,1 @@
+stoppped in https://craftinginterpreters.com/functions.html#function-objects
