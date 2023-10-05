@@ -1,1 +1,1 @@
-stoppped in https://craftinginterpreters.com/functions.html#function-objects
+stoppped in https://craftinginterpreters.com/resolving-and-binding.html#scopes-and-mutable-environments
